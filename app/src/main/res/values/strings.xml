@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">InToCmApp</string>
+    <string name="textEnterInches">Enter inches</string>
+    <string name="button_convert">Convert</string>
+    <string name="textviewCentimeters">Centimeters</string>
 </resources>
